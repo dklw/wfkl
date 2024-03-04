@@ -1,2 +1,3 @@
 # wfkl
-this is my code
+this is my first git repository
+author -> uzair burki
