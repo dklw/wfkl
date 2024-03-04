@@ -1,3 +1,3 @@
 # wfkl
-this is my first git repository
-author -> uzair burki
+this is my first git repository.
+Author -> uzair burki
